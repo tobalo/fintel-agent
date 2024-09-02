@@ -1,5 +1,5 @@
 # Finanical Analyst Agent
-This agent is a simple agent that can be used to perform day analysis on a stock or cryptocurrency. It can also be used to generate a macroeconomic intelligence report on the latest econometrics.
+This is a simple agent that can be used to perform day analysis on a stock or cryptocurrency. It can also be used to generate a macroeconomic intelligence report on the latest econometrics.
 
 OpenBB is a powerful tool for building and deploying agents. It provides a simple and intuitive interface for creating, testing, and deploying AI-powered agents. OpenBB is a platform akin to an open-source version of Bloomberg Terminal.
 
