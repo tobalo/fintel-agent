@@ -1,0 +1,3 @@
+openbb-agents
+openbb
+python-dotenv
