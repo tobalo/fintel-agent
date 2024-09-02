@@ -30,7 +30,7 @@ To run the agent, simply execute the `agent.py` script with the desired paramete
 python agent.py -t PLTR
 ```
 
-This will generate a macroeconomic intelligence report on the latest econometrics for the stock PLTR.
+This will generate a technical analysis on the stock PLTR.
 
 To run the agent with a specific ticker symbol, use the `-t` flag followed by the ticker symbol:
 
